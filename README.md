@@ -189,7 +189,7 @@ RAG Best Practices
 ​
 
 Connect
-🌐 Website: bilarna.com
+🌐 Website: https://bilarna.com
 
 📧 Email: support@bilarna.com
 
