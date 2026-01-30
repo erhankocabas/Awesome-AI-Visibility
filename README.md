@@ -1,4 +1,5 @@
 About This Repository
+
 This repository serves as a comprehensive resource hub for teams working on AI visibility optimization, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO). Whether you're building LLM applications, tracking brand citations, or optimizing for ChatGPT, Perplexity, Claude, or Google AI Overviews, you'll find essential tools and frameworks here.
 
 Table of Contents
