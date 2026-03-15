@@ -49,6 +49,8 @@ Semrush AI Visibility Toolkit — Track visibility across ChatGPT, Gemini, Claud
 ​
 
 Otterly AI — Brand mention monitoring, prompt research, and GEO audit tools
+
+- [AgentReady](https://agentready.site) — Free AI Readiness Scanner. Scores any website 0-100 for technical visibility to ChatGPT, Perplexity, Google AI Overviews, and Claude across 8 weighted factors (schema markup, llms.txt, bot access, content quality, AI protocols, topic clarity, authority & trust, crawl health). 60-second results, no account needed. Backed by a public correlation study across 984 websites (Spearman ρ = 0.72).
 ​
 
 Scrunch AI — Brand citation tracking with Agent Experience Platform (AXP)
