@@ -64,6 +64,8 @@ Phoenix — Open-source observability platform for LLM applications
 
 OpenLLMetry — Open-source observability for LLM applications
 
+[NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, and AEO with Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+
 Web Crawling & Scraping
 Frameworks for crawling websites and extracting structured data.
 
