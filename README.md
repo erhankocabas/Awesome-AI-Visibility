@@ -109,6 +109,8 @@ SEO Panel — Open-source SEO reporting software for agencies and multi-site man
 GSC Bulk Data Downloader — Bulk Google Search Console exports for automated reporting
 ​
 
+**[AnswerLens](https://app.sfdj.net/)** (commercial) — B2B SaaS public-evidence audit for crawlable pages, metadata, pricing, comparison pages, proof, and `llms.txt`; reports visible gaps before a paid source-backed fix plan.
+
 Content Optimization
 Tools for analyzing and optimizing content for search and AI engines.
 
