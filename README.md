@@ -130,6 +130,24 @@ DataForSEO — Comprehensive API for SERP data, backlinks, and keywords
 
 ValueSERP — Fast and affordable Google Search API
 
+**[Google Search Results API (FlashData)](https://flashdata.dev/docs/sources/google_search)** — Retrieve structured Google web results, links and snippets; not full-page extraction. Commercial; API key and paid Credits.
+
+**[Google News Search API (FlashData)](https://flashdata.dev/docs/sources/google_news)** — Search Google News headlines, publication details and links; not full articles. Commercial; API key and paid Credits.
+
+**[Google Images Search API (FlashData)](https://flashdata.dev/docs/sources/google_images)** — Search image URLs, thumbnails and source pages; does not download or license images. Commercial; API key and paid Credits.
+
+**[Google Shopping Search API (FlashData)](https://flashdata.dev/docs/sources/google_shopping)** — Retrieve Google Shopping product links, merchants and displayed prices; no stock guarantee. Commercial; API key and paid Credits.
+
+**[Google Video Search API (FlashData)](https://flashdata.dev/docs/sources/google_videos)** — Find video results across websites through Google Videos search. Commercial; API key and paid Credits.
+
+**[Google Places Search API (FlashData)](https://flashdata.dev/docs/sources/google_places)** — Search local businesses and places with available addresses, ratings and contact fields. Commercial; API key and paid Credits.
+
+**[YouTube Video Search API (FlashData)](https://flashdata.dev/docs/sources/youtube_search)** — Search YouTube videos by keyword with a requested result limit of 1 to 20. Commercial; API key and paid Credits.
+
+**[YouTube Extended Search API (FlashData)](https://flashdata.dev/docs/sources/youtube_search_extended)** — Search YouTube with a requested limit up to 700; separate rate, results may be fewer. Commercial; API key and paid Credits.
+
+**[YouTube Autocomplete API (FlashData)](https://flashdata.dev/docs/sources/youtube_suggestions)** — Retrieve YouTube autocomplete phrases from a prefix; not search-volume measurements. Commercial; API key and paid Credits.
+
 Schema & Structured Data
 Tools for implementing and validating structured data for better AI understanding.
 
